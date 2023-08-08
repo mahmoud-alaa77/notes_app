@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
        debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-brightness: Brightness.dark
+brightness: Brightness.dark,
+        fontFamily: "Poppins"
       ),
       home: const NotesView(),
     );
