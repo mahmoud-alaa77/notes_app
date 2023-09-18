@@ -16,7 +16,7 @@ class SplashView extends StatelessWidget {
       nextScreen:const NotesView(),
       disableNavigation: false,
       duration: 1000,
-      animationDuration: const Duration(seconds: 2),
+      animationDuration: const Duration(seconds: 1),
       pageTransitionType: PageTransitionType.bottomToTop,
       splashTransition: SplashTransition.scaleTransition,
     );
