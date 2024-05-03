@@ -1,6 +1,11 @@
-# note_app
+#Note App
 
-A new Flutter project.
+![image3](https://github.com/mahmoud-alaa77/notes_app/assets/126196219/7875a147-5604-43a3-b290-20bfe13a7d4b)
+![image2](https://github.com/mahmoud-alaa77/notes_app/assets/126196219/5bc92d52-5c4a-4f02-9907-6ca9689a3d02)
+![image4](https://github.com/mahmoud-alaa77/notes_app/assets/126196219/8dc68c67-9630-4751-b00b-bc5b2747d3c0)
+![image1](https://github.com/mahmoud-alaa77/notes_app/assets/126196219/72f07186-4a95-4e64-9d94-dd558df4aeb3)
+
+
 
 ## Getting Started
 
